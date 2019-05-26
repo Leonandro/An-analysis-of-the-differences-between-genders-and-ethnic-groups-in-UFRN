@@ -1,7 +1,7 @@
 # Author
 Leonandro Valério Barbosa Gurgel
 
-# An analysis of the differences between genders and ethnic groups in URFN
+# An analysis of the differences between genders and ethnic groups in UFRN
 A little analysis of the differences between genders and ethnic groups in the Federal University of the Rio Grande do Norte.
 
 # Analysis
